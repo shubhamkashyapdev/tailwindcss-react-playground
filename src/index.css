@@ -3,5 +3,9 @@
 @tailwind utilities;
 
 body {
-    background-color: navy;
+    background-color: #14213d;
+}
+
+.user-select-none {
+    user-select: none;
 }
